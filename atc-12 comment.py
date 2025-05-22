@@ -3,7 +3,7 @@ TURING MACHINE SIMULATOR WITH GUI
 This program provides:
 1. A Turing Machine implementation with configurable states/transitions
 2. Predefined example machines for common computational problems
-3. Visual interface showing tape evolution and execution trace kk
+3. Visual interface showing tape evolution and execution trace kkx
 """
 
 import tkinter as tk
