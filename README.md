@@ -7,7 +7,7 @@ This is an interactive **Turing Machine Simulator** with built-in **DFA/NFA visu
 
 ## 🚀 Features
 
-- ✅ Simulate Turing Machines step-by-step.ggg
+- ✅ Simulate Turing Machines step-by-step.
 - 🎥 Live transition trace and tape movement.
 - 🧾 Verdict display (Accepted / Rejected / Halted).
 - 📈 Automatic DFA/NFA GUI after simulation.
