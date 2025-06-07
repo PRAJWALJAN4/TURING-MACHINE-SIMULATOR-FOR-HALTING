@@ -1,6 +1,6 @@
 # turing-machine-simulator-for-hallting
 # 🧠 Turing Machine Simulator with DFA/NFA Visualizer
-
+nnn
 This is an interactive **Turing Machine Simulator** with built-in **DFA/NFA visualizer**, built using Python and Tkinter. It simulates the behavior of basic Turing Machines and displays live transitions, tape updates, and final results. After each simulation, it also opens a graphical representation of the DFA or NFA structure relevant to the language.
 
 ---
